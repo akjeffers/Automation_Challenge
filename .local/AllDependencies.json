@@ -1668,9 +1668,9 @@
     "restore": {
       "projectUniqueName": "Robot3_AutomatinChallenge",
       "projectName": "Robot3_AutomatinChallenge",
-      "projectPath": "C:\\Users\\ajeffers\\Documents\\UiPath\\Robot3_AutomatinChallenge\\.local",
+      "projectPath": "C:\\Users\\ajeffers\\Documents\\UiPath\\UdemyCourse\\Robots\\Robot3_AutomationChallenge\\.local",
       "packagesPath": "C:\\Users\\ajeffers\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ajeffers\\Documents\\UiPath\\Robot3_AutomatinChallenge\\.local"
+      "outputPath": "C:\\Users\\ajeffers\\Documents\\UiPath\\UdemyCourse\\Robots\\Robot3_AutomationChallenge\\.local"
     },
     "frameworks": {
       "net461": {
